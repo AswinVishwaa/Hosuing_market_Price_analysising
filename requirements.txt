@@ -1,8 +1,8 @@
 scikit-learn==1.2.0    
 joblib==1.2.0          
-pandas==1.5.2          
-matplotlib==3.7.1      
-seaborn==0.12.1      
-flask==2.1.1
-werkzeug==2.1.1
- 
+pandas      
+matplotlib     
+seaborn    
+flask
+werkzeug
+gunicorn
