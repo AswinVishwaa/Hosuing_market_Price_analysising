@@ -1,8 +1,9 @@
-scikit-learn==1.2.0    
-joblib==1.2.0          
+scikit-learn
+joblib       
 pandas      
 matplotlib     
 seaborn    
 flask
 werkzeug
 gunicorn
+numpy
