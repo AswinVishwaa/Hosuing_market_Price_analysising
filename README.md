@@ -45,11 +45,8 @@ Derived features: Per-square-foot price, demand indicators, etc.
 ### ⚙️ **Deployment**
 This application is deployed on Render. You can access it here.
 
-### 📜 **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### 🤝 **Contributing**
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ### The project is hosted on online 
-Access through the following link: **https://hosuing-market-price-analysising.onrender.com/**
+Access through the following link: **https://hosuing-market-price-analysising.onrender.com/** it would take around 60 seconds initailly.
